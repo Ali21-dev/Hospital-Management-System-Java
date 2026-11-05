@@ -1,0 +1,7 @@
+*.class
+patient.txt
+patient_backup.txt
+patient.dat
+.idea/
+.vscode/
+.DS_Store
